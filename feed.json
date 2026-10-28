@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "blog test",
+    "title": "Marcel Blog Site",
     "description": "",
     "home_page_url": "https://marceljc3.github.io/blog",
     "feed_url": "https://marceljc3.github.io/blog/feed.json",
@@ -13,16 +13,16 @@
         {
             "id": "https://marceljc3.github.io/blog/test.html",
             "url": "https://marceljc3.github.io/blog/test.html",
-            "title": "test",
-            "summary": "testing the post feature",
-            "content_html": "<p>testing the post feature</p>",
+            "title": "Hello World!",
+            "summary": "Actually making this site proper is something that I have put off for months. This post serves as a way to state the intent for this site as well as a small introduction. I believe that it is important for anyone, especially anyone technical, to&hellip;",
+            "content_html": "<p class=\"align-left\">Actually making this site proper is something that I have put off for months. This post serves as a way to state the intent for this site as well as a small introduction. </p>\n<h3>Why this site, exactly?</h3>\n<p>I believe that it is important for anyone, especially anyone technical, to have some form of creative outlet. I have my own, of course, but in an experiment that I thought of a while back, I had the idea to take up some form of writing as a means to express myself better and to release my thoughts into the vo<span style=\"font-size: inherit;\">id of the internet. In the process of doing so I wish to explore and analyze various interesting subjects across my various interests and potentially also improve my writing skills. Communication is important! </span></p>\n<p>Due to the nature of this project and what it needed, I chose to just use Publii to create this site instead of coding an entire one myself. It's a static site generator which is decently malleable and easy to use, recommended to me by a friend of mine in the games industry. I also just did not want to bother with the frontend or anything else of the sort for the site. I believe that if writing is the main focus, then there is no point in overkill website design.</p>\n<h3>Ok, but why didn't you just use Claude to make the frontend/backend then? Sounds lazy to me.</h3>\n<p>Good point. It feels slightly out of scope for this project, though. It certainly has its place as a development tool and a means to automate a lot of tasks (such as making a wesite for this blog very quickly) but I want full agency of my projects. I also believe that taking the easy way out and spending some tokens is not the way to properly learn something, reinforcing the fact that it feels out of scope. </p>\n<h3>Who are you anyway?</h3>\n<p>How impolite of me. I'm Marcel, a Computer Science student at Carleton University. If you're in the CCSS, you've probably seen me around. If not or you don't know me, then nice to meet you!</p>",
             "author": {
                 "name": "Marcel C."
             },
             "tags": [
             ],
             "date_published": "2026-10-28T15:15:43-04:00",
-            "date_modified": "2026-10-28T15:15:43-04:00"
+            "date_modified": "2026-10-28T16:00:06-04:00"
         }
     ]
 }
