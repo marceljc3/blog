@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "blog test",
+    "description": "",
+    "home_page_url": "https://marceljc3.github.io/blog",
+    "feed_url": "https://marceljc3.github.io/blog/feed.json",
+    "user_comment": "",
+    "icon": "https://marceljc3.github.io/blog/media/website/signature.png",
+    "author": {
+        "name": "Marcel C."
+    },
+    "items": [
+        {
+            "id": "https://marceljc3.github.io/blog/test.html",
+            "url": "https://marceljc3.github.io/blog/test.html",
+            "title": "test",
+            "summary": "testing the post feature",
+            "content_html": "<p>testing the post feature</p>",
+            "author": {
+                "name": "Marcel C."
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-28T15:15:43-04:00",
+            "date_modified": "2026-10-28T15:15:43-04:00"
+        }
+    ]
+}
